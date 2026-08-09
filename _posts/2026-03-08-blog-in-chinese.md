@@ -5,7 +5,7 @@ date:   2026-03-08 20:10:26 +0800
 categories: jekyll update
 ---
 
-### 写中文内容出现报错test
+### 写中文内容出现报错
 
 ```text
 Error: could not read file FILE-NAME: invalid byte sequence in UTF-8
